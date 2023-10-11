@@ -1,0 +1,2 @@
+# EBcoin
+EBcoin Staging Tree
